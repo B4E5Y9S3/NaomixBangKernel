@@ -126,5 +126,5 @@ all.config
 kernel/configs/android-*.cfg
 
 # Build
-build.sh
+#build.sh
 out/*
